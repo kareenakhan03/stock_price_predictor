@@ -1,5 +1,6 @@
-Django
-gunicorn
-numpy
+streamlit
 pandas
+numpy
 scikit-learn
+yfinance
+matplotlib
